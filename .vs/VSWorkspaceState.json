@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css"
+    "\\css",
+    "\\photos",
+    "\\photos\\thumbnails"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\photo_lightbox.png",
   "PreviewInSolutionExplorer": false
 }

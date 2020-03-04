@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\js",
-    "\\js\\lightbox2-2.11.1",
-    "\\js\\lightbox2-2.11.1\\dist",
-    "\\js\\lightbox2-2.11.1\\dist\\js",
+    "\\magnific-popup",
+    "\\photos",
     "\\photos\\thumbnails"
   ],
   "SelectedNode": "\\js\\app.js",

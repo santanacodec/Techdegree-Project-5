@@ -185,6 +185,7 @@ button::-moz-focus-inner {
 }
 
 .mfp-counter {
+    display: none;
     position: absolute;
     top: 0;
     right: 0;
@@ -304,12 +305,12 @@ button::-moz-focus-inner {
 /* Main image in popup */
 img.mfp-img {
     width: auto;
-    max-width: 100%;
+    max-width: 75%;
     height: auto;
     display: block;
     line-height: 0;
     box-sizing: border-box;
-    padding: 40px 0 40px;
+    padding: 40px 0 100px;
     margin: 0 auto;
 }
 
@@ -329,8 +330,6 @@ img.mfp-img {
         width: auto;
         height: auto;
         z-index: -1;
-        box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-        background: #444;
     }
 
     .mfp-figure small {
@@ -354,11 +353,16 @@ img.mfp-img {
 }
 
 .mfp-title {
-    text-align: left;
+    text-align: center;
     line-height: 18px;
     color: #F3F3F3;
     word-wrap: break-word;
     padding-right: 36px;
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 17px;
+    letter-spacing: 2px;
+    font-weight: lighter;
 }
 
 .mfp-image-holder .mfp-content {

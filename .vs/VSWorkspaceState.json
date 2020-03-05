@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\js",
     "\\photos",
     "\\photos\\thumbnails"
   ],
-  "SelectedNode": "\\js",
+  "SelectedNode": "\\js\\search.js",
   "PreviewInSolutionExplorer": false
 }

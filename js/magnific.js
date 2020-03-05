@@ -10,6 +10,6 @@ $(document).ready(function () {
                 return item.el.find('img').attr('title');
             }
         },
-        showCloseBtn: false
+        showCloseBtn: true
     });
 });
